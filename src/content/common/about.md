@@ -4,16 +4,11 @@ title: About
 
 Hi there👋
 
-I'm **Guo Ruyi**, use the *qingwave* as my network id, there are some situation of mine.
+I'm **LBB**, use the *qingwave* as my network id, there are some situation of mine.
 
-- 🔭 I'm working on CloudNative, Kubernetes, Prometheus...
-- 📫 Reach me Here, [Github](https://github.com/qingwave), [JueJin](https://juejin.cn/user/2576910988872951), [RSS](/rss.xml) or [Email](mailto:isguory@gmail.com)
+- 🔭 I'm working on Linux do ···
+- 📫 Reach me Here, [Github](https://github.com/qingwave) or [Email](mailto:isguory@gmail.com)
 
 Projects:
 
-- [weave](https://github.com/qingwave/weave), Golang+Vue3 application starter
-- [mossdb](https://github.com/qingwave/mossdb), an in-memory, persistent, and embedded key-value database in Go
-- [gocorex](https://github.com/qingwave/gocorex), a collection golang useful utils for golang application, distributed system and microservice
-- [mycni](https://github.com/qingwave/mycni), a simple CNI plugin for Kubernetes
-- [ring](https://github.com/qingwave/ring), ping but with rust
-- [writings](https://github.com/qingwave/writings), a personal website based on Astro and Tailwind CSS
+- 敬请期待

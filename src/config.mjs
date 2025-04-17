@@ -1,12 +1,12 @@
 const CONFIG = {
-  name: 'Qingwave',
+  name: 'LBB',
 
-  origin: 'https://qingwave.github.io',
+  origin: 'https://Lbb886.github.io',
   basePathname: '',
   trailingSlash: true,
 
-  title: 'Qingwave',
-  description: "Qingwave's Blog.",
+  title: 'LBB',
+  description: "LBB's Blog.",
   defaultImage: '',
 
   defaultTheme: 'light', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
